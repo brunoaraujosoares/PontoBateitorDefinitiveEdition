@@ -16,7 +16,7 @@ def criar_arquivo(filePath):
     processo = leia_numero_processo()
     with open(filePath, 'a') as f:
         saida = '# Texto que será inserido no campo de texto de evento externo\n'
-        saida+= f'texto = \'Trabalho remoto. Processo SEI n, {processo}.\n\''
+        saida+= f'texto = \'Trabalho remoto. Processo SEI n, {processo}.\'\n'
         f.write(saida)
     return True
 
