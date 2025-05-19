@@ -39,19 +39,12 @@ Este projeto automatiza o preenchimento da folha de ponto no sistema SARH, utili
 
 
 ## ▶️ Como usar
-Clone o repositório:
+Clone o repositório e execute o script:
 
-bash
-Copiar
-Editar
 git clone https://github.com/brunoaraujosoares/PontoBateitorDefinitiveEdition.git
 cd automacao-folha-ponto
-Execute o script:
-
-bash
-Copiar
-Editar
 python main.py
+
 No primeiro uso, o navegador será aberto e você poderá inserir sua senha manualmente. O sistema armazenará o link do Painel do Servidor para usos futuros.
 
 🔐 Aviso
