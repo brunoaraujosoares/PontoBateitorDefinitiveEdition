@@ -38,13 +38,13 @@ Este projeto automatiza o preenchimento da folha de ponto no sistema SARH, utili
 4. Acesso à rede interna que permita abrir o endereço do sistema.
 
 
-▶️ Como usar
+## ▶️ Como usar
 Clone o repositório:
 
 bash
 Copiar
 Editar
-git clone https://github.com/seuusuario/automacao-folha-ponto.git
+git clone https://github.com/brunoaraujosoares/PontoBateitorDefinitiveEdition.git
 cd automacao-folha-ponto
 Execute o script:
 
